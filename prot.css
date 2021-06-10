@@ -1,0 +1,68 @@
+#services img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+#Home img{
+    border-radius: 20%;
+}
+.bg-secondary {
+    /*
+    background-color: #6c757d !important;
+    */
+}
+.my-margin{
+    margin-left: 1rem;
+}
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: lightgray;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #0f0f0f;
+    border-color: #000;
+    font-weight: 700;
+    border-radius: 50px;
+    padding: 11px;
+    text-align: ;
+}
+.footer-section {
+    background-color: lightgray;
+    padding: 20px;
+    margin-top: 36px;
+}
+
+.social-icon{
+
+}
+
+.fab, .far {
+    font-weight: 400;
+    font-size: 19px;
+}
+
+/* .my-input{
+    height: 1.5rem;
+}
+.my-button{
+    height: 1.5rem;
+} */
+
+ .type{
+    color: white;
+    background-image: url('./img/brick.jpg');
+    height: 300px;
+    text-align: center;
+    margin-top: 5rem auto;
+    font-size: 3 5px;
+    font-weight: 700;
+}
